@@ -1,5 +1,8 @@
 
-
+@font-face {
+    font-family: "Star Wars";
+    src: url('fonts/starwars.ttf');
+}
 
 
 body {
