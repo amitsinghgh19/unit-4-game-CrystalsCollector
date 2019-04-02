@@ -1,0 +1,57 @@
+
+
+
+
+body {
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    /* font-family: Avenir, Helvetica, sans-serif; */
+    background: url(../images/crystal_background2.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+  #game-rules{
+    margin: 0 auto;
+}
+
+
+#randomNumGen{
+    
+    background: rgb(130, 223, 130);
+    
+}
+
+#totalScore{
+    
+    background: rgb(224, 221, 17);
+}
+
+img{
+    width: 68px;
+    height: 68px;
+}
+#crysImges{
+   
+    border: solid 4px #e90a28;
+    background: rgb(158, 17, 224);
+    margin: 0 auto;
+    height: 100px;
+}
+
+#crysContainerDiv{
+    padding: 10px 2px ; 
+    margin: 0 auto;
+    margin-left: 28%;
+    margin-right: 40%;
+    position: relative;
+    
+
+}
+
+#crysContainerDiv .imgBtn{
+    display:inline-block;
+}
